@@ -1,4 +1,4 @@
-# itproject
+# Popular People App
 
 A new Flutter project.
 
